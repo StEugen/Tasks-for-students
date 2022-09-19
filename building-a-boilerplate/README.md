@@ -35,7 +35,7 @@ Make a new directory for your website (dirname="website")
 <br><br>
 
 <h3>5. List contents</h3>
-List contents of project folder
+List contents of project folder but make it more verbose and let me see even hidden files.
 <br>
 <code>$ ls</code>
 <br>
@@ -46,7 +46,8 @@ attributes in the manual page or help
 <br>
 <code>$ [command name] --help</code>
 <br>
-<code>$ ls</code> accept two flags: -a and -l flag. -a flag is used to display every files you have in directory. -l flag used to display everything like list and more verbose.
+<code>$ ls</code> accept two flags: -a and -l flag. -a flag is used to display every files you have in directory, even
+some that are hidden. -l flag used to display everything like list and more verbose. You can use them alltogether <code>$ ls -al</code>
 <br>
 
 
@@ -56,7 +57,7 @@ attributes in the manual page or help
 <br><br>
 <h3>2. List the contents</h3>
 Try to do it yourself. I will not be near you everytime.
-<br>
+<br><br>
 <h3>3. Display the message</h3>
 <code>echo [message]</code> 
 <br> Display message "Hello website!" in terminal
@@ -65,5 +66,18 @@ Try to do it yourself. I will not be near you everytime.
 Usually there is some index.html file inside website folder if making a real deal, so, please make some file
 index.html <br>
 <code>$ touch [filename.file_extension]</code> is used to create new files.
+<br><br>
+<h3>Styles.css</h3>
+Also, there is some styles.css file. Could you make it, please?
+<code>touch [filename.file_extension]</code> 
+<br><br>
+<h3>List contents</h3>
+You know what to do, but also make the output verbose in list format
+<br><br>
+<h3>Index.js file</h3>
+Usually for frontend development we use javascript. So, for our script files we need index.js file. Can you make it?
+<br><br>
+<h3>gitignore?</h3>
+When working in team and with real apps we usually use Git version control system. But some files sometimes should be ignored, so there is such file as .gitignore. Can you please make it, in case we will turn this in Git repository?
 <br><br>
 <h3></h3>
