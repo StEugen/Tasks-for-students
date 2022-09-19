@@ -78,6 +78,6 @@ You know what to do, but also make the output verbose in list format
 Usually for frontend development we use javascript. So, for our script files we need index.js file. Can you make it?
 <br><br>
 <h3>gitignore?</h3>
-When working in team and with real apps we usually use Git version control system. But some files sometimes should be ignored, so there is such file as .gitignore. Can you please make it, in case we will turn this in Git repository?
+When working in team and with real apps we usually use Git version control system. But some files sometimes should be ignored, so there is such file as .gitignore. Can you please make it, in case we will turn this in Git repository?(remember to put dot just before gitignore!)
 <br><br>
 <h3></h3>
