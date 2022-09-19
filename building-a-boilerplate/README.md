@@ -100,4 +100,10 @@ Your website is not full without some background. So, let's just create one for 
 <h3>14. Header image</h3>
 Also, we need some Header image. So, create one, pls
 <br><br>
-<h3></h3>
+<h3>15. List!</h3>
+Once again, pls, list the contents
+<br><br>
+<h3>16. Images folder...</h3>
+Oh, no... Well.... We actually forgot that we need a special folder for images. Create a folder with name images.
+<br><br>
+<h3>17. </h3>
