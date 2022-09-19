@@ -94,4 +94,10 @@ So, we need -a flag or --all flag if we want to type everything. List everything
 Also, you can see some dots here. One dot "." means current directory (we need it when starting scripts or just to let computer better now what we mean) and two dots ".." - previous directory. So, go back, to the previous folder using: <br>
 <code>$ cd ..</code>
 <br><br>
-<h3>13. </h3>
+<h3>13. Background</h3>
+Your website is not full without some background. So, let's just create one for educational purposes (in real situation it's more likely that you'll have one real background picture). Use touch command to create background.jpg
+<br><br>
+<h3>14. Header image</h3>
+Also, we need some Header image. So, create one, pls
+<br><br>
+<h3></h3>
