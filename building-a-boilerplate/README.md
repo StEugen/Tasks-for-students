@@ -97,8 +97,8 @@ Also, you can see some dots here. One dot "." means current directory (we need i
 <h3>13. Background</h3>
 Your website is not full without some background. So, let's just create one for educational purposes (in real situation it's more likely that you'll have one real background picture). Use touch command to create background.jpg
 <br><br>
-<h3>14. Header and body image</h3>
-Also, we need some header.jpeg and body.jpg. So, create one, pls,
+<h3>14. Header and body image, and remember about font!</h3>
+Also, we need some header.jpeg and body.jpg. And we need font file, let's create font.otf 
 <br><br>
 <h3>15. List!</h3>
 Once again, pls, list the contents
@@ -128,8 +128,24 @@ Well, we can copy header.jpeg but we will need to delete it... to many things to
 Move body.jpg to image folder
 <br><br>
 <h3>23. Oh...</h3>
-Well, uno problemo... we don't need image for body. We need image for main-section. Actually, body.jpg image is ok for our main-section but we need to call it more suitable. So, let's rename it!<br>
+Well, uno problemo... we don't need image for body. We need image for main-section. Actually, body.jpg image is ok for our main-section but we need to call it more suitable. So, let's rename it! (remember to <code>cd</code> to the images folder first)<br>
 <code>$ mv [file_to_rename] [new_name_for_file]</code> - Yeah, forgot to tell you, <code>mv</code> can also be used as renaming command.
 <br><br>
-
-
+<h3>24. List</h3>
+One list command in images folder, pls. Just to check that everything is fine.
+<br><br>
+<h3>25. Tree</h3>
+Nature is a great thing and programmers think so too. But we actually like trees most... especially if they are inside our computers. So, let's see the directory tree. Go back to website folder and there summon a tree.<br>
+<code>$ cd ..</code><br>
+<code>$ find</code> - is used to make a directory tree
+<br><br>
+<h3>26. No fonts folder</h3>
+Poor us! We forgot to make fonts folder, make one, pls.
+<br><br>
+<h3>27. Moving again</h3>
+Move font.otf to fonts folder, pls.
+<br><br>
+<h3>28. We need a new tree</h3>
+We need to see if everything is right. So, using find command make a new website directory tree.
+<br><br>
+<h3>29. </h3>
