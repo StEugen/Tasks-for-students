@@ -55,6 +55,7 @@ attributes in the manual page or help
 <code>cd [dirname]</code>
 <br><br>
 <h3>2. List the contents</h3>
+Try to do it yourself. I will not be near you everytime.
 <br>
 <h3>3. Display the message</h3>
 <code>echo [message]</code> 
