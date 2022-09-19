@@ -50,9 +50,3 @@ attributes in the manual page or help
 <code>$ ls</code> accept two flags: -a and -l flag. -a flag is used to display every files you have in directory. -l flag used to display everything like list and more verbose.
 <br>
 
-<h2>Website directory now</h2>
-<h3>Go to the website directory you've just made.</h3>
-<br>
-<code>cd [dirname]</code>
-<br><br><br>
-<h3>List the contents of the directory</h3>
