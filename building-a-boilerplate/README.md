@@ -148,4 +148,16 @@ Move font.otf to fonts folder, pls.
 <h3>28. We need a new tree</h3>
 We need to see if everything is right. So, using find command make a new website directory tree.
 <br><br>
-<h3>29. </h3>
+<h3>29. Remember about clients!</h3>
+We should also make a directory for our clients information and client side files. Make a client folder, pls
+<br><br>
+<h3>30. Source folder</h3>
+Well, now it's time to move index.html to another folder. First, make new folder called src in client (client/src). Then, move index.html there (client/src/index.htmk)
+<br><br>
+<h3>31. Tree</h3>
+Make a tree to be sure that everything is fine
+<br><br>
+<h3>32. index.js and styles.css also</h3>
+Now, move index.js and styles.css to src folder (client/src/index.js) (client/src/styles.css)
+<br><br>
+<h3>33. </h3>
