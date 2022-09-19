@@ -47,9 +47,8 @@ attributes in the manual page or help
 <br>
 <code>$ [command name] --help</code>
 <br>
-<code>$ ls<code> accept two flags: -a and -l flag. -a flag is used to display every files you have in directory. -l flag used to display everything like list and more verbose.
+<code>$ ls</code> accept two flags: -a and -l flag. -a flag is used to display every files you have in directory. -l flag used to display everything like list and more verbose.
 <br>
-<hr>
 
 <h2>Website directory now</h2>
 <h3>Go to the website directory you've just made.</h3>
