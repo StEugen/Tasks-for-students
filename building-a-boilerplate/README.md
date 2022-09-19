@@ -160,4 +160,23 @@ Make a tree to be sure that everything is fine
 <h3>32. index.js and styles.css also</h3>
 Now, move index.js and styles.css to src folder (client/src/index.js) (client/src/styles.css)
 <br><br>
-<h3>33. </h3>
+<h3>33. Find subbfolder</h3>
+So, be sure that you're in website folder now. Check it with <code>pwd</code> command. So, now let's find src folder from website. Use find to find subfolder and it's contents<br>
+<code>$ find ./client/</code>
+<br><br>
+<h3>34. What's find can also do?</h3>
+Use --help flag with find command to learn it out.
+<br><br>
+<h3>35. Names of files</h3>
+So, find can find something using <code>-name</code> flag. Let's try it to find index.html
+<code>$ find -name index.html</code> (be sure that you're in website folder)
+<br><br>
+<h3>36. Hide-n-seek with styles.css</h3>
+Try to find styles.css by yourself
+<br><br>
+<h3>37. Assets</h3>
+Go to client folder and make a new one there. Call it assets. Then, make images folder inside assets folder (client/assets/images)
+<br><br>
+<h3>38. Moving out</h3>
+Now go to the website folder, find images folder and move there. Now you need to <code>mv</code> all the files to client/assets/images. <br>
+<code>$ mv ./* ../client
