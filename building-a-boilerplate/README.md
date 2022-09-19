@@ -28,3 +28,22 @@ List the contents of the folder
 <code>ls</code> - is used to display contents
 <hr>
 
+<h3>Make a directory</h3>
+Make a new directory for your website
+<br>
+<code>$ mkdir [dirname]</code> 
+<hr>
+
+<h3>List contents</h3>
+List contents of project folder
+<br>
+<code>$ ls<code>
+<br>
+All comands have flags, you can see the list of all
+attributes in the manual page or help
+<br>
+<code>$ man [command name]</code>
+<br>
+<code>$ [command name] --help</code>
+<br>
+<code>$ ls<code> accept two flags: -a and -l flag. -a flag is used to display everyfiles 
