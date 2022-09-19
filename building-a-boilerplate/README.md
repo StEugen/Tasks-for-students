@@ -9,7 +9,6 @@ display "Hello terminal!" message in the terminal
 
 
 <h2>Working with Project directory</h2>
-<hr>
 <h3>1. Find your working directory</h3>
 When you're working with projects you need to know what directory you are in!
 <br>
