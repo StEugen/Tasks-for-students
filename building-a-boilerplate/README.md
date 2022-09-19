@@ -12,7 +12,7 @@ display "Hello terminal!" message in the terminal
 When you're working with projects you need to know what directory you are in!
 <br>
 So, <code>pwd</code> is used to find out your working directory
-<br><br><br>
+<br><br>
 <h3>2. Making a directory and moving in</h3>
 You need to make a new directory for your project
 Make directory called [project] and move into it
