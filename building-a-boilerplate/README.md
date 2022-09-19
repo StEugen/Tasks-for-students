@@ -38,7 +38,7 @@ Make a new directory for your website
 <h3>5. List contents</h3>
 List contents of project folder
 <br>
-<code>$ ls<code>
+<code>$ ls</code>
 <br>
 All comands have flags, you can see the list of all
 attributes in the manual page or help
@@ -47,9 +47,6 @@ attributes in the manual page or help
 <br>
 <code>$ [command name] --help</code>
 <br>
-<h3>3. List</h3>
-List the contents of the folder
+<code>$ ls</code> accept two flags: -a and -l flag. -a flag is used to display every files you have in directory. -l flag used to display everything like list and more verbose.
 <br>
-<code>$ ls</code> - is used to display contents
-<br><br><br>
 
