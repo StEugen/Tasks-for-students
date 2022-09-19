@@ -5,7 +5,6 @@ start a terminal in your linux distro.
 display "Hello terminal!" message in the terminal
 <br>
 <code>$ echo [something]</code> is used to display [something] in the terminal 
-<hr>
 
 
 <h2>Working with Project directory</h2>
@@ -56,7 +55,7 @@ attributes in the manual page or help
 <code>cd [dirname]</code>
 <br><br>
 <h3>2. List the contents</h3>
-<br><br>
+<br>
 <h3>3. Display the message</h3>
 <code>echo [message]</code> 
 <br> Display message "Hello website!" in terminal
