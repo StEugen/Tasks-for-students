@@ -179,4 +179,10 @@ Go to client folder and make a new one there. Call it assets. Then, make images 
 <br><br>
 <h3>38. Moving out</h3>
 Now go to the website folder, find images folder and move there. Now you need to <code>mv</code> all the files to client/assets/images. <br>
-<code>$ mv ./* ../client
+<code>$ mv ./* ../client/assets/images/</code>
+<br><br>
+<h3>39. Now delete something for me</h3>
+Delete the directory images that is in website
+<code>$ rmdir [folder_to_delete]</code>
+<br><br>
+<h3>40. Now let's make a tree</h3>
