@@ -21,3 +21,10 @@ Make directory called [project] and move into it
 <br>
 <code>cd [dirname]</code> - to move in directory you in 
 <hr>
+
+<h3>List</h3>
+List the contents of the folder
+<br>
+<code>ls</code> - is used to display contents
+<hr>
+
