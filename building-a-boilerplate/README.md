@@ -47,6 +47,9 @@ attributes in the manual page or help
 <br>
 <code>$ [command name] --help</code>
 <br>
-<code>$ ls</code> accept two flags: -a and -l flag. -a flag is used to display every files you have in directory. -l flag used to display everything like list and more verbose.
+<h3>3. List</h3>
+List the contents of the folder
 <br>
+<code>$ ls</code> - is used to display contents
+<br><br><br>
 
