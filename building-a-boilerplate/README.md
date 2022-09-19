@@ -35,7 +35,7 @@ Make a new directory for your website (dirname="website")
 <br><br>
 
 <h3>5. List contents</h3>
-List contents of project folder but make it more verbose and let me see even hidden files.
+List contents of project folder but make it more verbose.
 <br>
 <code>$ ls</code>
 <br>
@@ -46,8 +46,7 @@ attributes in the manual page or help
 <br>
 <code>$ [command name] --help</code>
 <br>
-<code>$ ls</code> accept two flags: -a and -l flag. -a flag is used to display every files you have in directory, even
-some that are hidden. -l flag used to display everything like list and more verbose. You can use them alltogether <code>$ ls -al</code>
+<code>$ ls</code> accept two flags: -a and -l flag. -l flag used to display everything like list and more verbose. 
 <br>
 
 
@@ -62,22 +61,37 @@ Try to do it yourself. I will not be near you everytime.
 <code>echo [message]</code> 
 <br> Display message "Hello website!" in terminal
 <br><br>
-<h3>Create a new file</h3>
+<h3>4. Create a new file</h3>
 Usually there is some index.html file inside website folder if making a real deal, so, please make some file
 index.html <br>
 <code>$ touch [filename.file_extension]</code> is used to create new files.
 <br><br>
-<h3>Styles.css</h3>
+<h3>5. Styles.css</h3>
 Also, there is some styles.css file. Could you make it, please?
 <code>touch [filename.file_extension]</code> 
 <br><br>
-<h3>List contents</h3>
+<h3>6. List contents</h3>
 You know what to do, but also make the output verbose in list format
 <br><br>
-<h3>Index.js file</h3>
+<h3>7. Index.js file</h3>
 Usually for frontend development we use javascript. So, for our script files we need index.js file. Can you make it?
 <br><br>
-<h3>gitignore?</h3>
+<h3>8. gitignore?</h3>
 When working in team and with real apps we usually use Git version control system. But some files sometimes should be ignored, so there is such file as .gitignore. Can you please make it, in case we will turn this in Git repository?(remember to put dot just before gitignore!)
 <br><br>
-<h3></h3>
+<h3>9. List again</h3>
+Yeah, please, list the contents one more time.
+<br><br>
+<h3>10. Where's .gitignore?!</h3>
+Some files are hidden, so how are we supposed to see them? Well, use the help flag to find it out.<br>
+<code>$ ls --help</code>
+<br><br>
+<h3>10. --all or -a?</h3>
+So, we need -a flag or --all flag if we want to type everything. List everything now, so you can find out where's .gitignore
+<code>ls -a</code>
+<br><br>
+<h3>12. Dots??</h3>
+Also, you can see some dots here. One dot "." means current directory (we need it when starting scripts or just to let computer better now what we mean) and two dots ".." - previous directory. So, go back, to the previous folder using: <br>
+<code>$ cd ..</code>
+<br><br>
+<h3>13. </h3>
