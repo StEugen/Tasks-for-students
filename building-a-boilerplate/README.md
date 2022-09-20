@@ -185,4 +185,36 @@ Now go to the website folder, find images folder and move there. Now you need to
 Delete the directory images that is in website
 <code>$ rmdir [folder_to_delete]</code>
 <br><br>
-<h3>40. Now let's make a tree</h3>
+<h2>Now a big deal</h2>
+<h3>First</h3>
+So, during all these steps, we managed to do something. Let me just give you a task, so you'll complete it all and once.<br>
+Well, make icons folder in client/assets/ folder<br>
+Go to icons folder and create a new file called icon.ico<br>
+Now go back to assets and make a tree and check that contents of your assets folder is the same<br>
+<img src="./first"><br>
+<br><br>
+<h3>Second</h3>
+Now let us end this. Head to website folder. Here you need to create two files: package.json and server.js. 
+After that, pls, create a README.md file<br>
+Now let's edit it a bit. we can use editor, but we need to learn terminal first.<br>
+Add next sentence to README.md file: Now, i know how to build website-boilerplates!<br>
+To complete it, use next command <code>$ echo [text] >> [file]</code> - this command will allow you to write [text] in your [file]
+<br>
+Now, let us see if everything is right. To make the output of file in terminal use <code>$ cat [file]</code> command<br>
+if you have output like<br>
+<img src="./second"><br>
+Then it's fine<br>
+<br>
+Now, add some new lines but using vim/nano editor.
+<code>$ vim (or nano) [filename]</code>
+<br>
+Add lines about yourself: Name, date of birth and hobby for example.
+<br>
+Now, exit vim or nano, and use <code>more [filename]</code> command to view contents of README.md
+<br>
+<img src="./third">
+<br>
+Now, use find command to make a tree and make sure you have something like:<br>
+<img src="./4th">
+<br>
+If everything is alright, then, congratulations, you've made it! Now, you know some basic commands of linux and know how to make boilerplates! 
