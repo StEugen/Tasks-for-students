@@ -192,7 +192,7 @@ Well, make icons folder in client/assets/ folder<br>
 Go to icons folder and create a new file called icon.ico<br>
 Now go back to assets and make a tree and check that contents of your assets folder is the same<br>
 <img src="./images/first.png"><br>
-<br><br>
+<br>
 <h3>Second</h3>
 Now let us end this. Head to website folder. Here you need to create two files: package.json and server.js. 
 After that, pls, create a README.md file<br>
