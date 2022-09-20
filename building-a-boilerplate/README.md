@@ -19,7 +19,7 @@ Make directory called [project] and move into it
 <br>
 <code>$ mkdir [dirname]</code> - to make directory
 <br>
-<code>cd [dirname]</code> - to move in directory you in 
+<code>cd [dirname]</code> - to move to a directory you need
 <br><br>
 
 <h3>3. List</h3>
@@ -218,3 +218,4 @@ Now, use find command to make a tree and make sure you have something like:<br>
 <img src="./images/4th.png">
 <br>
 If everything is alright, then, congratulations, you've made it! Now, you know some basic commands of linux and know how to make boilerplates! 
+<h2><code>$ echo Hooray!</code></h2>
