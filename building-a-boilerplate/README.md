@@ -1,5 +1,5 @@
 <h1>Building a boilerplate using bash</h1>
-
+Everything in brackets ([]; {}; "") - is variable, so you don't need to write brackets, just the name of this variable. For example: if you have a task to make directory and as an example of code you have <code>mkdir [dirname]</code> YOU DO NOT NEED TO WRITE mkdir [dirname], you should choose a name for you directory and then make directory with the name. So, i want to call my directory "project", i should do: <code>$ mkdir project</code>
 <h3>First things first!</h3>
 start a terminal in your linux distro.
 display "Hello terminal!" message in the terminal
