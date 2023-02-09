@@ -28,5 +28,19 @@ def start():
 </pre>
 Первая программа на Python для Robomaster написана. <br>
 Попробуйте написать эту же программу используя класс <code>chassis_ctrl</code> заменяя метод <code>set_wheel_speed()</code> на метод <code>move_degree_with_speed(degree, speed)</code> <br>
- 
-
+ <br>
+ Во второй программе давайте попробуем добавить мигание диодами<br>
+ <pre>
+ def start():
+    ## программа движения, которую вы ранее написали
+    led_ctrl.set_top_led(define.armor_top_all,
+                255, 255, 255,define.effect_always_off)
+    led_ctrl.set_bottom_led(define.armor_bottom_all,
+                255, 255, 255,define.effect_always_on)
+ </pre><br>
+ <br>
+ Третья программа заставит робота разворачиваться и поъезжать обратно.
+ <pre>
+ def start():
+    chassis_ctrl.move_degree_with_speed(degree)
+ </pre>
