@@ -15,10 +15,18 @@
 ## Hello world in terms of Robotics
 Первая программа позволит просто подвинуть робота вперед на несколько метров<br>
 Команда для того, чтобы робот поехал вперед: <br>
-Даллее приведен pseudocode c пояснениями<br>
 <pre>
 #python
-function start():
-    
+def start():
+    ## далеее будет команда специально для Robomaster
+    ## заставляет робота поворачиваться за подвеской (деталь: Gimbal)
+    robot_ctrl.set_mode(rm_define.robot_mode_gimbal_follow)
+    ## далее устанавливается скорость вращения для каждого колеса
+    ## контроль_шасси.установить_скорость(переднее_левое, переднее_правое, заднее_левое, заднее_правое)
+    ## задайти скорость 30 для первой программы
+    chassis_ctrl.set_wheel_speed()
 </pre>
+Первая программа на Python для Robomaster написана. <br>
+Попробуйте написать эту же программу используя класс <code>chassis_ctrl</code> заменяя метод <code>set_wheel_speed()</code> на метод <code>move_degree_with_speed(degree, speed)</code> <br>
+ 
 
