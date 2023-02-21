@@ -28,3 +28,26 @@
 - <a href='https://ru.wikipedia.org/wiki/MySQL'>MySQL в википедии</a>
 - <a href='https://www.mysql.com'>Официальный сайт MySQL</a>
 
+## Окончание базовой установки
+- Конфигурация пакетного менеджера, выберите зеркало российской федерации
+- На следующей странице выберите deb.debian.org, проследуйте дальше по установке
+- Оставьте поле proxy пустым
+- Как только дойдете до выбора программного обеспечения для установки, убедитесь, что только чекбокс "standard system utilities" отмечен, все остальные должны быть пустыми
+- Установить GRUB, поставьте его на диск VBOX 
+- По окончанию установки залогинтесь в виртуальную машину
+<br>
+
+## First things first
+Переключитесь на root пользотеля:
+<details>
+    <summary>Code</summary>
+    <code>$ su</code> - to change to superuser <br>
+</details> 
+<br>
+Вначале обновите список репозиторий, проверьте дистрибутив на обновления
+<details>
+    <summary>Code</summary>
+    <code>$ apt update</code> - to check for updates <br>
+    <code>$ apt upgrade</code> - to make updates if there are some<br>
+</details> 
+<br>
