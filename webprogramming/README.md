@@ -5,7 +5,7 @@
 ## Stack
 - Flask
 - HTML/CSS/Jinja
-- MariaDB
+- SQLite3
 
 ## Порядок работы
 - Начните с наладки работы бекэнда, проследуйте к Backend.md
