@@ -1,5 +1,5 @@
 # Tasks for students
-
+test
 Practical laboratories and guided exercises.
 
 All security-track laboratories use the shared [security laboratory report template](templates/security-lab-report-template.md).
