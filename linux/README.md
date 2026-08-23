@@ -5,9 +5,12 @@ commands to writing reusable scripts and investigating Linux as a security opera
 
 ## Recommended order
 
-1. [Pipes and text processing](pipes-and-text-processing/README.md)
-2. [Bash scripts lesson](scripts-lesson/README.md)
-3. [Permissions, processes, and logs](permissions-processes-logs/README.md)
+Prerequisite: [Building a boilerplate using Bash](building-a-boilerplate/README.md).
+
+1. [Linux network fieldbook with Git](linux-network-git-fieldbook/README.md)
+2. [Pipes and text processing](pipes-and-text-processing/README.md)
+3. [Bash scripts lesson](scripts-lesson/README.md)
+4. [Permissions, processes, and logs](permissions-processes-logs/README.md)
 
 ## Reporting requirement
 

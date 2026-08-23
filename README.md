@@ -6,7 +6,8 @@ All security-track laboratories use the shared [security laboratory report templ
 
 ## Security foundations
 
-- [Linux laboratories](linux/README.md) — pipes, Bash scripts, permissions, processes, and logs.
+- [Linux laboratories](linux/README.md) — filesystem work, Git, host/network inventory, pipes, Bash
+  scripts, permissions, processes, and logs.
 - [Networking laboratories](nets/README.md) — isolated VirtualBox networking, packet analysis,
   authorized enumeration, and firewalling.
 
